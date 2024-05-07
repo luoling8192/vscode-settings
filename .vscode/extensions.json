@@ -1,22 +1,29 @@
 {
   "recommendations": [
     // Fontend
-    "antfu.browse-lite",
-    "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
-    "antfu.vite",
-    "lokalise.i18n-ally",
-    "dbaeumer.vscode-eslint",
-    "Vue.volar",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-complete-tag",
-    "formulahendry.auto-rename-tag",
-    "drKnoxy.eslint-disable-snippets",
-    "WallabyJs.console-ninja",
-    "steoates.autoimport",
-    "christian-kohler.path-intellisense",
-    "kisstkondoros.vscode-gutter-preview",
+    // "antfu.browse-lite",
+    // "antfu.iconify",
+    // "antfu.slidev",
+    // "antfu.unocss",
+    // "antfu.vite",
+    // "lokalise.i18n-ally",
+    // "dbaeumer.vscode-eslint",
+    // "Vue.volar",
+    // "formulahendry.auto-close-tag",
+    // "formulahendry.auto-complete-tag",
+    // "formulahendry.auto-rename-tag",
+    // "drKnoxy.eslint-disable-snippets",
+    // "WallabyJs.console-ninja",
+    // "steoates.autoimport",
+    // "christian-kohler.path-intellisense",
+    // "kisstkondoros.vscode-gutter-preview",
+
+    // "mikestead.dotenv",
+    // "humao.rest-client",
+    // "redhat.vscode-yaml",
+    // "christian-kohler.npm-intellisense",
+    // "EditorConfig.EditorConfig",
+    // "esbenp.prettier-vscode",
 
     // Themes & Icons
     "antfu.theme-vitesse",
@@ -32,7 +39,6 @@
 
     // Enhance
     "eamodio.gitlens",
-    "EditorConfig.EditorConfig",
     "github.vscode-github-actions",
     "GitHub.vscode-pull-request-github",
     "mpontus.tab-cycle",
@@ -44,6 +50,6 @@
     "aaron-bond.better-comments",
 
     // Vim
-    "vscodevim.vim",
+    // "vscodevim.vim",
   ]
 }
