@@ -1,37 +1,49 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
+    // Fontend
     "antfu.browse-lite",
     "antfu.iconify",
     "antfu.slidev",
     "antfu.unocss",
     "antfu.vite",
-    "antfu.where-am-i",
-    "antfu.open-in-github-button",
     "lokalise.i18n-ally",
-
-    // themes & icons
-    "antfu.icons-carbon",
-    "antfu.theme-vitesse",
-    "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
-
-    // life savers!
     "dbaeumer.vscode-eslint",
     "Vue.volar",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "drKnoxy.eslint-disable-snippets",
+    "WallabyJs.console-ninja",
+    "steoates.autoimport",
+    "christian-kohler.path-intellisense",
+    "kisstkondoros.vscode-gutter-preview",
+
+    // Themes & Icons
+    "antfu.theme-vitesse",
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons",
+
+    // Time saver
     "GitHub.copilot",
     "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
+    "antfu.where-am-i",
+    "antfu.open-in-github-button",
 
-    // up to you
+    // Enhance
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "github.vscode-github-actions",
     "GitHub.vscode-pull-request-github",
-    "johnsoncodehk.vscode-tsconfig-helper",
     "mpontus.tab-cycle",
-    "naumovs.color-highlight",
     "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+    "alefragnani.Bookmarks",
+    "Gerrnperl.outline-map",
+    "Gruntfuggly.todo-tree",
+    "aaron-bond.better-comments",
+
+    // Vim
+    "vscodevim.vim",
   ]
 }
