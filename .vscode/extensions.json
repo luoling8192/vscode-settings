@@ -1,7 +1,7 @@
 {
   "recommendations": [
     // Fontend
-    "antfu.browse-lite",
+    // "antfu.browse-lite",
     "antfu.iconify",
     "antfu.slidev",
     "antfu.unocss",
@@ -17,6 +17,9 @@
     "steoates.autoimport",
     "christian-kohler.path-intellisense",
     "kisstkondoros.vscode-gutter-preview",
+    "antfu.goto-alias",
+    "vincaslt.highlight-matching-tag",
+    "pflannery.vscode-versionlens",
 
     "mikestead.dotenv",
     "humao.rest-client",
@@ -31,7 +34,8 @@
     "Catppuccin.catppuccin-vsc-icons",
 
     // Time saver
-    "FittenTech.Fitten-Code",
+    "MarsCode.marscode-extension",
+    // "FittenTech.Fitten-Code",
     "annsk.alignment",
     // "GitHub.copilot",
     // "GitHub.copilot-chat",
@@ -39,6 +43,9 @@
     "streetsidesoftware.code-spell-checker",
     "antfu.where-am-i",
     "antfu.open-in-github-button",
+    "antfu.file-nesting",
+    "ypresto.vscode-intelli-refactor",
+    "kisstkondoros.vscode-gutter-preview",
 
     // Enhance
     "eamodio.gitlens",
@@ -49,7 +56,11 @@
     "alefragnani.Bookmarks",
     "Gerrnperl.outline-map",
     "Gruntfuggly.todo-tree",
-    "aaron-bond.better-comments",
+    "mhutchie.git-graph",
+    "GitHub.codespaces",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    // "aaron-bond.better-comments",
 
     // Vim
     // "vscodevim.vim",
