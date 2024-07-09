@@ -30,12 +30,14 @@
 
     // Themes & Icons
     "antfu.theme-vitesse",
+    "GitHub.github-vscode-theme",
     "Catppuccin.catppuccin-vsc",
     "Catppuccin.catppuccin-vsc-icons",
+    "PKief.material-icon-theme",
 
     // Time saver
-    "MarsCode.marscode-extension",
-    // "FittenTech.Fitten-Code",
+    // "MarsCode.marscode-extension",
+    "FittenTech.Fitten-Code",
     "annsk.alignment",
     // "GitHub.copilot",
     // "GitHub.copilot-chat",
@@ -60,9 +62,13 @@
     "GitHub.codespaces",
     "VisualStudioExptTeam.vscodeintellicode",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
-    // "aaron-bond.better-comments",
+    "aaron-bond.better-comments",
 
     // Vim
     // "vscodevim.vim",
+
+    // Intellisense
+    "bradlc.vscode-tailwindcss",
+    "Selemondev.shadcn-vue"
   ]
 }
