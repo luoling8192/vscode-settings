@@ -1,7 +1,6 @@
 {
   "recommendations": [
     // Fontend
-    // "antfu.browse-lite",
     "antfu.iconify",
     "antfu.slidev",
     "antfu.unocss",
@@ -27,16 +26,16 @@
     "christian-kohler.npm-intellisense",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
+    "maggie.eslint-rules-zh-plugin",
+    "dariofuzinato.vue-peek",
 
     // Themes & Icons
     "antfu.theme-vitesse",
     "GitHub.github-vscode-theme",
     "Catppuccin.catppuccin-vsc",
     "Catppuccin.catppuccin-vsc-icons",
-    "PKief.material-icon-theme",
 
     // Time saver
-    // "MarsCode.marscode-extension",
     "FittenTech.Fitten-Code",
     "annsk.alignment",
     // "GitHub.copilot",
@@ -48,6 +47,8 @@
     "antfu.file-nesting",
     "ypresto.vscode-intelli-refactor",
     "kisstkondoros.vscode-gutter-preview",
+    "antfu.smart-clicks",
+    "aChakrounAnas.turbo-console-log",
 
     // Enhance
     "eamodio.gitlens",
@@ -63,12 +64,15 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "aaron-bond.better-comments",
+    "DominicVonk.parameter-hints",
 
     // Vim
     // "vscodevim.vim",
 
     // Intellisense
     "bradlc.vscode-tailwindcss",
-    "Selemondev.shadcn-vue"
+    "Selemondev.shadcn-vue",
+    "Prisma.prisma",
+    "csstools.postcss"
   ]
 }

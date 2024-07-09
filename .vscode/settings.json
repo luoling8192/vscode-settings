@@ -342,4 +342,5 @@
   "fittencode.languagePreference.displayPreference": "zh-cn",
   "fittencode.languagePreference.commentPreference": "zh-cn",
   "terminal.integrated.env.osx": {},
+  "console-ninja.featureSet": "Community",
 }
