@@ -73,6 +73,11 @@
     "bradlc.vscode-tailwindcss",
     "Selemondev.shadcn-vue",
     "Prisma.prisma",
-    "csstools.postcss"
+    "csstools.postcss",
+
+    // Snippets
+    "yoyo930021.vuter",
+    "xabikos.JavaScriptSnippets",
+    "hollowtree.vue-snippets",
   ]
 }
